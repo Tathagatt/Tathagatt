@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says I'm a Data Science Enthusiast👨‍💻">
+<img src="https://github.com/Tathagatt/Tathagatt/blob/main/Pic.png" alt="banner that says I'm a Data Science Enthusiast👨‍💻">
 
 Here are some ideas to get you started:
 
