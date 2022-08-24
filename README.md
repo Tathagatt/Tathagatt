@@ -1,4 +1,3 @@
-# Hi there 👋
 
 <img src="https://github.com/Tathagatt/Tathagatt/blob/main/Pic.png" alt="banner that says I'm a Data Science Enthusiast👨‍💻">
 
