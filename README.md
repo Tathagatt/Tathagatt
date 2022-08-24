@@ -33,5 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tathagatt&hide=java,html,css&theme=tokyonight)](https://github.com/viTathagatt/github-readme-stats)
 
-
 <!-- [![Tathagat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tathagatt)](https://github.com/Tathagatt/github-readme-stats&show_icons=true&theme=radical) -->
